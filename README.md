@@ -1,0 +1,2 @@
+# sun
+say hi
